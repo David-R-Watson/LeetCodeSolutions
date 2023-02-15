@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-A store of solutions to various exercises
+A repo of solutions to various leetcode exercises
